@@ -163,6 +163,9 @@ author_profile: true
 53. Progressive Pixel-Neighborhood Deformable Cross-Attention for Multispectral Object Detection.   
     Tian Qiu, **Jifeng Shen**\* and Xin Zuo.  
      *<font color="blue">Sensors</font>*, 2026, 26(12), 3825.[code](https://github.com/DanielQiuTian/PNAFusion)
+55. Authentication and traceability of tea as a high-risk product: A comprehensive review of spectroscopic and chemometric solutions.
+    Xiaohong Wu, Zhichen Lun, Xiao Zhu, Bin Wu, **Jifeng Shen**.
+    *<font color="blue">Food Control</font>*, 192 (2027) 112555.
 
 # Conference Papers
 
