@@ -172,7 +172,7 @@ author_profile: true
 
 1. WIDE: Wildcard Inference with Dynamic Expansion for Cross-modal Generative Retrieval.   
    Teng Guo, Xin Wang, Xu Jiayou, Zhou Keying, **Jifeng Shen**, Haoxin Ruan.   
-   *<font color="blue">34th ACM International Conference on Multimedia (ACMMM)</font>*, 2026, Accepted.
+   *<font color="blue">34th ACM International Conference on Multimedia (ACMMM)</font>*, 2026, pp. 2615-2624.
 3. DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection.   
    Silieng Wang, Yanshu Li, Bohan Hu, Zhengtao Yao, Zhengdao Li, Linshan Li, Haibo Zhan, Weiming Liu, Junhao Dong, Ruizhi Qian, Guangxin Wu, Zhang, **Jifeng Shen**\*, Piotr Koniusz, Qiang Sun.   
    *<font color="blue">International Conference on Learning Representations (ICLR)</font>*, 2026, Accepted
