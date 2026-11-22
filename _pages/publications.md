@@ -166,7 +166,15 @@ author_profile: true
 54. Authentication and traceability of tea as a high-risk product: A comprehensive review of spectroscopic and chemometric solutions.   
     Xiaohong Wu, Zhichen Lun, Xiao Zhu, Bin Wu, **Jifeng Shen**.  
      *<font color="blue"> Food Control</font>*, 192(2027), 112555.
-    
+55.STG: Structured Topology of Gridpoints for Occluded Pedestrian Detection.
+   Tian Qiu, **Jifeng Shen**\*, Xin Zuo.
+   *<font color="blue"> Sensors </font>*, 2026, 26, 5496.
+56.Non-destructive hyperspectral prediction of oxytetracycline concentration in oilseed rape leaves using an adaptive spectral patch attention network.
+   Jun Sun, Weisong Li, Xingyu Ji, Xiaohong Wu, Chunxia Dai, Xin Zhou, **Jifeng Shen**, Juan Liao.
+   *<font color="blue">Chemometrics and Intelligent Laboratory Systems</font>*, 279, 2026, 105924.
+57.L1-SNLDA: A novel sparse null space linear discriminant analysis for NIR-based geographical origin discrimination of Chinese wolfberry.
+  Xiaohong Wu, Xiao Zhu, **Jifeng Shen**, Bin Wu.
+  *<font color="blue">Chemometrics and Intelligent Laboratory Systems</font>*, 280, 2027, 105953. 
 
 # Conference Papers
 
